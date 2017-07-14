@@ -1,4 +1,4 @@
-package net.kikkirej.java9.osprocess.processhandle;
+package net.kikkirej.java9.osprocess.staticcalls;
 
 /**
  * example for the new API to get current process.
