@@ -1,8 +1,10 @@
 package net.kikkirej.java9.privateinterfacemethods;
 /**
- * An interface, which declares default and private Methods 
+ * An interface, which declares default methods in Java 8 style <br>
+ * A bit refactored.
  * @author Kikkirej
  * @since 14.07.2017
+ * @see SomeJava8Interface
  */
 public interface SomeJava8InterfaceRefactored {
 	
