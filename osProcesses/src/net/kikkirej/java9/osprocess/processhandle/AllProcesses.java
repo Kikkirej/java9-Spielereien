@@ -1,4 +1,4 @@
-package net.kikkirej.java9.osprocess;
+package net.kikkirej.java9.osprocess.processhandle;
 
 import java.util.stream.Stream;
 
